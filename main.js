@@ -40,6 +40,11 @@ layui.use(['table', 'layer'], function() {
 			id: "1002",
 			name: "张小红",
 			major: "会计学"
+		},
+		{
+			id: "1003",
+			name: "张小军",
+			major: "财务管理"
 		}]
 	});
 	var list = table.render({
